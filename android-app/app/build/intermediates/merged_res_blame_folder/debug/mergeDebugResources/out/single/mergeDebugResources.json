@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.blueocean.app-debug-4:/drawable_ic_camera_gallery.xml.flat",
+        "source": "com.blueocean.app-main-6:/drawable/ic_camera_gallery.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_shazam.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_shazam.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_notes.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_notes.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_translate.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_translate.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_camera_map.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_camera_map.xml"
+    },
+    {
+        "merged": "com.blueocean.app-debug-4:/drawable_ic_camera_map.xml.flat",
+        "source": "com.blueocean.app-main-6:/drawable/ic_camera_map.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_camera_flip.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_camera_flip.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_geocam.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_geocam.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_camera_menu.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_camera_menu.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_camera_fast.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_camera_fast.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_camera_flash.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_camera_flash.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_service.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_service.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_calc.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_calc.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_play.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_play.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_camera_gallery.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_camera_gallery.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_yandex_music.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_yandex_music.xml"
+    },
+    {
+        "merged": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-debug-4:/drawable_ic_launcher_chrome.xml.flat",
+        "source": "/Users/laik/.gradle/daemon/9.0.0/com.blueocean.app-main-6:/drawable/ic_launcher_chrome.xml"
+    }
+]

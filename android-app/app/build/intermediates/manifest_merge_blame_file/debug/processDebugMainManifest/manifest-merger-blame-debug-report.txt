@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.blueocean.v2"
+4    android:versionCode="1"
+5    android:versionName="0.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:2:5-65
+11-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:2:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:3:5-67
+12-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:4:5-79
+13-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:4:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:5:5-81
+14-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:5:22-78
+15
+16    <application
+16-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:7:5-23:19
+17        android:allowBackup="false"
+17-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:8:9-36
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:9:9-65
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:fullBackupContent="false"
+21-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:10:9-42
+22        android:icon="@drawable/ic_launcher"
+22-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:11:9-45
+23        android:label="Blue Ocean v2"
+23-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:12:9-38
+24        android:roundIcon="@drawable/ic_launcher"
+24-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:13:9-50
+25        android:supportsRtl="true"
+25-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:14:9-35
+26        android:theme="@style/Theme.BlueOcean" >
+26-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:15:9-47
+27        <activity
+27-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:16:9-19:58
+28            android:name="com.blueocean.app.MainActivity"
+28-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:17:13-41
+29            android:exported="true"
+29-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:18:13-36
+30            android:windowSoftInputMode="adjustResize" />
+30-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:19:13-55
+31
+32        <activity-alias
+32-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:9-417
+33            android:name="com.blueocean.app.LauncherNotes"
+33-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:25-54
+34            android:enabled="false"
+34-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:55-78
+35            android:exported="true"
+35-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:79-102
+36            android:icon="@drawable/ic_launcher_notes"
+36-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:103-145
+37            android:label="Заметки"
+37-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:146-169
+38            android:roundIcon="@drawable/ic_launcher_notes"
+38-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:170-217
+39            android:targetActivity="com.blueocean.app.MainActivity" >
+39-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:218-256
+40            <intent-filter>
+40-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:263-406
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:278-330
+41-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:286-327
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:330-390
+43-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:340-387
+44            </intent-filter>
+45        </activity-alias>
+46        <activity-alias
+46-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:9-423
+47            android:name="com.blueocean.app.LauncherCalculator"
+47-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:25-59
+48            android:enabled="true"
+48-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:60-82
+49            android:exported="true"
+49-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:83-106
+50            android:icon="@drawable/ic_launcher_calc"
+50-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:107-148
+51            android:label="Калькулятор"
+51-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:149-176
+52            android:roundIcon="@drawable/ic_launcher_calc"
+52-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:177-223
+53            android:targetActivity="com.blueocean.app.MainActivity" >
+53-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:224-262
+54            <intent-filter>
+54-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:263-406
+55                <action android:name="android.intent.action.MAIN" />
+55-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:278-330
+55-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:286-327
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:330-390
+57-->/Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:340-387
+58            </intent-filter>
+59        </activity-alias>
+60    </application>
+61
+62</manifest>

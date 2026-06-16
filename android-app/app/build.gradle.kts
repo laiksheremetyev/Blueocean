@@ -1,0 +1,27 @@
+plugins {
+    id("com.android.application")
+}
+
+android {
+    namespace = "com.blueocean.app"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.blueocean.v2"
+        minSdk = 28
+        targetSdk = 35
+        versionCode = 1
+        versionName = "0.2.0"
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation("org.mapsforge:mapsforge-map-android:0.25.0")
+    implementation("org.mapsforge:mapsforge-map-reader:0.25.0")
+    implementation("org.mapsforge:mapsforge-themes:0.25.0")
+}

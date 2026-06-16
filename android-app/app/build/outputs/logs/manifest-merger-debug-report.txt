@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:1:1-24:12
+	package
+		INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:2:5-65
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:2:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:7:5-23:19
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:7:5-23:19
+	android:extractNativeLibs
+		INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:12:9-38
+	android:fullBackupContent
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:10:9-42
+	android:roundIcon
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:13:9-50
+	android:icon
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:15:9-47
+	android:dataExtractionRules
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:9:9-65
+activity#com.blueocean.app.MainActivity
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:16:9-19:58
+	android:windowSoftInputMode
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:17:13-41
+activity-alias#com.blueocean.app.LauncherCalculator
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:9-423
+	android:enabled
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:60-82
+	android:label
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:149-176
+	android:exported
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:83-106
+	android:targetActivity
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:224-262
+	android:roundIcon
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:177-223
+	android:icon
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:107-148
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:25-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:263-406
+action#android.intent.action.MAIN
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:278-330
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:286-327
+category#android.intent.category.LAUNCHER
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:330-390
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:21:340-387
+activity-alias#com.blueocean.app.LauncherNotes
+ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:9-417
+	android:enabled
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:55-78
+	android:label
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:146-169
+	android:exported
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:79-102
+	android:targetActivity
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:218-256
+	android:roundIcon
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:170-217
+	android:icon
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:103-145
+	android:name
+		ADDED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml:22:25-54
+uses-sdk
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laik/Projects/vault-system/android-app/app/src/main/AndroidManifest.xml

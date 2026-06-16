@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_camera_fast
+drawable ic_camera_flash
+drawable ic_camera_flip
+drawable ic_camera_gallery
+drawable ic_camera_map
+drawable ic_camera_menu
+drawable ic_launcher
+drawable ic_launcher_calc
+drawable ic_launcher_chrome
+drawable ic_launcher_geocam
+drawable ic_launcher_notes
+drawable ic_launcher_play
+drawable ic_launcher_service
+drawable ic_launcher_shazam
+drawable ic_launcher_translate
+drawable ic_launcher_yandex_music
+style Theme.BlueOcean
+xml data_extraction_rules

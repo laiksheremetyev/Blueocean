@@ -1,0 +1,8 @@
+com.blueocean.app-pngs-0 /Users/laik/Projects/vault-system/android-app/app/build/generated/res/pngs/debug
+com.blueocean.app-resValues-1 /Users/laik/Projects/vault-system/android-app/app/build/generated/res/resValues/debug
+com.blueocean.app-updated_navigation_xml-2 /Users/laik/Projects/vault-system/android-app/app/build/generated/updated_navigation_xml/debug
+com.blueocean.app-packageDebugResources-3 /Users/laik/Projects/vault-system/android-app/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.blueocean.app-packageDebugResources-4 /Users/laik/Projects/vault-system/android-app/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.blueocean.app-debug-5 /Users/laik/Projects/vault-system/android-app/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.blueocean.app-debug-6 /Users/laik/Projects/vault-system/android-app/app/src/debug/res
+com.blueocean.app-main-7 /Users/laik/Projects/vault-system/android-app/app/src/main/res
